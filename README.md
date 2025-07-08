@@ -1,2 +1,30 @@
 # Student-Record-System
-Simple C++ console application to manage student records with features like add, display, search, delete, and update, using vectors and basic DSA concepts.
+
+
+This is a console-based Student Record System developed in C++.  
+It allows you to manage student data using basic CRUD operations.
+
+---
+
+## ✨ Features
+
+✅ Add new student records  
+✅ Display all records  
+✅ Search student by roll number  
+✅ Delete student record  
+✅ Update existing student details
+
+---
+
+## 💻 Technologies Used
+
+- C++
+- STL (Vectors)
+
+---
+
+## 🛠 How to Compile & Run
+
+### Windows (PowerShell / CMD)
+
+
